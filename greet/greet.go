@@ -9,5 +9,5 @@ func English() string {
 
 // Retorna saludo en italiano
 func Italian() string {
-	return "Ciao" + emoji
+	return "Ciao " + emoji
 }
